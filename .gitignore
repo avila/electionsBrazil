@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+dataInput/**
+dataInput/*/*
+dataInput/*/**
+dataInput/**/*
+dataInput/votacao_partido_munzona/*
