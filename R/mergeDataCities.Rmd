@@ -1,0 +1,207 @@
+---
+title: "MergeDataCity"
+author: "Marcelo Avila"
+date: "27 November 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+this file merges data frame of citines into one wide format
+
+
+## librariess
+
+```{r}
+
+```
+
+
+## locals
+
+```{r}
+g <- list()
+l <- list()
+g$dataPath <- "/data/electionBrazil/SPCitiesClean/"
+g$listOfFiles <- list.files(path = g$dataPath, 
+                            pattern = "*.csv", 
+                            all.files = FALSE,
+                            full.names = FALSE)
+g$inputData <- "../inputData/"
+
+g$N <- length(g$listOfFiles)
+```
+
+
+```{r}
+g$dfs <- list()
+for (i in 1:g$N) {
+    cat(i," ")
+    l$filePath <- paste0(g$dataPath, g$listOfFiles[i])
+    dftmp <- read.csv2(file = l$filePath)
+    
+    # extract name of city
+    l$cityName <- sub(".*clean_ *(.*?) *.csv*", "\\1", l$filePath)
+    
+    # append column with name of city
+    dftmp$cidade <- l$cityName
+    
+    g$dfs[[i]] <- dftmp
+}
+```
+
+
+## Write merged data frames
+
+```{r}
+g$dfMerged <- do.call(rbind, g$dfs)
+g$dfMerged$X <- NULL
+
+# reorder df
+g$dfMerged <- g$dfMerged[, c(6, 1:5)]
+```
+
+
+# get only 2017 values for now
+
+```{r}
+g$dfMerged <- g$dfMerged[g$dfMerged$Ano==2017,]
+names(g$dfMerged) <- c("cidade", 
+                     "ano",
+                     "homic",
+                     "furto",
+                     "roubo",
+                     "veicu")
+```
+
+```{r}
+l$filepathWrite <- paste0(g$inputData, "spMerged2017", ".csv")
+write.table(x = g$dfMerged,
+            file = l$filepathWrite)
+```
+
+
+
+
+```{r}
+head(g$dfMerged)
+```
+
+### append pop data
+
+```{r}
+g$dfPop <- read.csv(file = "../inputData/estimativa_dou_2017_SP.csv",
+                    stringsAsFactors = FALSE,
+                    colClasses = c("factor",
+                                   "character",
+                                   "character",
+                                   "character",
+                                   "integer")
+                    )
+nrow(g$dfMerged) == nrow(g$dfPop)
+```
+
+```{r}
+head(g$dfPop)
+head(g$dfMerged)
+```
+
+
+```{r}
+dfComplete <- merge(x = g$dfPop, y = g$dfMerged, 
+                    by = "cidade", all = TRUE)
+
+names(dfComplete) <- c("cidade", 
+                       "UF",
+                       "cod_UF",
+                       "cod_Mun",
+                       "popEst", 
+                       "ano",
+                       "homic",
+                       "furto",
+                       "roubo",
+                       "veicu")
+```
+
+## x / pop * 100.000
+
+```{r}
+for (i in 7:10) {
+    dfComplete[i] <- dfComplete[i] / dfComplete$popEst * 10^5
+}
+
+head(dfComplete)
+```
+
+## checks consistency
+
+```{r}
+# TODO: check missings
+for (i in 7:10) {
+    print(colnames(dfComplete[i]))
+    print(dfComplete$cidade[is.na(dfComplete[i])])
+}
+```
+
+
+
+### preliminar regresssion 
+
+
+```{r}
+dfVotosWide <- read.csv2("../inputData/votosSPWide.csv")
+head(dfVotosWide, 10)
+
+dfVotosWide$NM_MUNICIPIO <- tolower(dfVotosWide$NM_MUNICIPIO)
+dfComplete$cidade <- tolower(dfComplete$cidade)
+```
+
+```{r}
+dfFinal <- merge(x = dfComplete, y = dfVotosWide,
+                 by.x = "cidade", by.y = "NM_MUNICIPIO", all = TRUE)
+
+head(dfFinal)
+```
+```{r}
+#TODO: check duplicates
+```
+```{r}
+names(dfFinal)
+```
+
+```{r}
+dfFinal$sum <- apply(dfFinal[, c(13:16, 18:27)], 1, sum)
+dfFinal$bolso <- dfFinal$X17 / (dfFinal$X17 + dfFinal$sum)
+mean(dfFinal$bolso, na.rm = T)
+
+dfTemp <- dfFinal[complete.cases(dfFinal),]
+dfTemp$bolso <- dfTemp$bolso
+```
+
+```{r}
+names(dfTemp)
+```
+
+```{r}
+fit <- betareg::betareg(bolso ~ homic + veicu, data = dfTemp)
+summary(fit)
+```
+
+```{r}
+par(mfrow=c(2,2))
+plot(dfTemp$bolso, dfTemp$homic)
+plot(dfTemp$bolso, dfTemp$furto)
+plot(dfTemp$bolso, dfTemp$roubo)
+plot(dfTemp$bolso, dfTemp$veicu)
+```
+
+```{r}
+pairs(dfTemp[7:10])
+```
+
+```{r}
+names(dfTemp)
+```
+

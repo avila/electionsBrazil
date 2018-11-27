@@ -1,22 +1,21 @@
 ---
-title: "scrapDataSSP"
+title: "Scrapping dados da SSP SP"
 author: "Marcelo Avila"
 date: "26 November 2018"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
 ```
 
 ```{r message=FALSE, warning=FALSE}
-library(rvest)
 library(stringr)
-library(rebus)
-library(lubridate)
 library(RSelenium)
 library(XML)
 ```
+
+
 
 ## Iniciar RSeleniun 
 
@@ -24,6 +23,8 @@ library(XML)
 rD <- rsDriver(port = 4567L, browser = "firefox")
 remDr <- rD[["client"]]
 ```
+
+
 
 ### Funções reutilizáveis para o loop
 
@@ -41,12 +42,15 @@ clickRegTodos <- function() {
 ```
 
 
+
 ### declare some """globals"""
+
 ```{r}
 g <- list()
 g$dataPath <- "/data/electionBrazil/"
 g$dataCleanPath <- paste0(g$dataPath, "SPCitiesClean/")
 ```
+
 
 
 ### Iniciar loop
@@ -57,56 +61,55 @@ g$dataCleanPath <- paste0(g$dataPath, "SPCitiesClean/")
 ## abriar a página
 urlSSP <- "http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx"
 remDr$navigate(urlSSP)
+
 ## Clicar ocorrencias registradas por ano
 clickOccAno()
 
-## click regiao: todos
+## click regiao >> todos
 clickRegTodos()
 
-i <- 300
-n <- 500
-vector = i:n
+i1 <- 1; n <- 646   ## doing in small chunks
+vector = i1:n
 for (i in vector) {
     
-    ## STARTING
-    cat(paste("Start: "))
+    ## Starting loop
+    cat(paste("Start:",i,"))
     
-    ## check ocorrencias registradas por ano
-    
-    ## check regiao 
+
+    ## Checar se tá na Regiao certa (as vezes muda, seilá pq) 
     cssRegTodos <- "#conteudo_ddlRegioes"
     webElemReg <- remDr$findElement(using = 'css selector', cssRegTodos)
     opts <- webElemReg$selectTag()
-    # if the first is not selected, click regiao todos
+    # se o primeiro item, "todos", nao estiver selecionado -> click regiao todos
     if (!opts$selected[1]) { clickRegTodos() }
     
     
-    ## select town 
+    ## selecionar cidade
     cssSel <- paste0("#conteudo_ddlMunicipios > option:nth-child(", i, ")")
     webElem <- remDr$findElement(using = 'css selector', cssSel)
-    citystring <- webElem$getElementText()[[1]][1]
+    cityString <- webElem$getElementText()[[1]][1]
     
-    cat("  :")
+    cat(" :")
     
     ## Check if already downloaded
     listOfFiles <- list.files(g$dataCleanPath)
-    citycheck <- paste0("clean_", citystring, ".csv")
+    citycheck <- paste0("clean_", cityString, ".csv")
     if (any(str_detect(listOfFiles, citycheck))) {  
-        cat(paste(citystring, "already there!  :-)\n"))
+        cat(paste(")", cityString, "already there!  :)\n"))
         next
     }
     
-    cat("-0  ")
+    cat("( ")
     
     webElem$clickElement()
-    cat(paste("Downloading", citystring))
+    cat(paste("Downloading", cityString))
     
     ## get table
     cat(" ...")
     cssTab <- paste0("#conteudo_gridAnual")
     webTab <- remDr$findElement(using = 'css selector', cssTab)
     tabcont <- webTab$getElementText()[[1]][1]
-    listResult <- as.list(setNames(tabcont, citystring))
+    listResult <- as.list(setNames(tabcont, cityString))
     
     
     # !
@@ -120,38 +123,19 @@ for (i in vector) {
     ## save data
     cat("...")
     
-    filepathWrite <- paste0(g$dataCleanPath)
-    write.csv2(x = tab,
-               file = paste(filepathWrite,
-                            paste0("clean_", citystring, ".csv"),
-                            sep = "/"))
+    fileNameWrite <- paste(g$dataCleanPath,
+                            paste0("clean_", cityString, ".csv"), sep = "/")
+    write.csv2(x = tab,fileNameWrite )
     
     ## done
-    cat("   d:D\n")
+    cat(" :)\n")
 }
 ```
 
 
 
-trash
-========================
+## Stop Selenium Driver
 
 ```{r}
-read.delim(text = listResult[[1]], sep = " ")
-```
-
-### click on first city
-
-```{r}
-# conteuno anual 
-```
-```{r}
-#regiao: todos
-cssRegTodos <- "#conteudo_ddlRegioes > option:nth-child(1)"
-webElemReg <- remDr$findElement(using = 'css selector', cssRegTodos)
-webElemReg$clickElement()
-i = 3
-cssSel <- paste0("#conteudo_ddlMunicipios > option:nth-child(", i, ")")
-webElem <- remDr$findElement(using = 'css selector', cssSel)
-webElem$getElementText()
+rD[["server"]]$stop() 
 ```

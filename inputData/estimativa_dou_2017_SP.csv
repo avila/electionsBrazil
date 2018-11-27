@@ -1,0 +1,646 @@
+UF,COD. UF,COD. MUNIC,cidade, POPULAÇÃO ESTIMADA 
+SP,35,00105,Adamantina, 35139 
+SP,35,00204,Adolfo, 3609 
+SP,35,00303,Aguaí, 35508 
+SP,35,00402,Águas da Prata, 8104 
+SP,35,00501,Águas de Lindóia, 18509 
+SP,35,00550,Águas de Santa Bárbara, 6009 
+SP,35,00600,Águas de São Pedro, 3268 
+SP,35,00709,Agudos, 36880 
+SP,35,00758,Alambari, 5754 
+SP,35,00808,Alfredo Marcondes, 4135 
+SP,35,00907,Altair, 4109 
+SP,35,01004,Altinópolis, 16219 
+SP,35,01103,Alto Alegre, 4154 
+SP,35,01152,Alumínio, 18324 
+SP,35,01202,Álvares Florence, 3795 
+SP,35,01301,Álvares Machado, 24813 
+SP,35,01400,Álvaro de Carvalho, 5119 
+SP,35,01509,Alvinlândia, 3196 
+SP,35,01608,Americana, 233868 
+SP,35,01707,Américo Brasiliense, 39189 
+SP,35,01806,Américo de Campos, 5967 
+SP,35,01905,Amparo, 71193 
+SP,35,02002,Analândia, 4845 
+SP,35,02101,Andradina, 57350 
+SP,35,02200,Angatuba, 24634 
+SP,35,02309,Anhembi, 6484 
+SP,35,02408,Anhumas, 4053 
+SP,35,02507,Aparecida, 36279 
+SP,35,02606,Aparecida d'Oeste, 4329 
+SP,35,02705,Apiaí, 24945 
+SP,35,02754,Araçariguama, 21038 
+SP,35,02804,Araçatuba, 194874 
+SP,35,02903,Araçoiaba da Serra, 32495 
+SP,35,03000,Aramina, 5552 
+SP,35,03109,Arandu, 6368 
+SP,35,03158,Arapeí, 2509 
+SP,35,03208,Araraquara, 230770 
+SP,35,03307,Araras, 131282 
+SP,35,03356,Arco-Íris, 1856 
+SP,35,03406,Arealva, 8452 
+SP,35,03505,Areias, 3879 
+SP,35,03604,Areiópolis, 11107 
+SP,35,03703,Ariranha, 9451 
+SP,35,03802,Artur Nogueira, 51986 
+SP,35,03901,Arujá, 86430 
+SP,35,03950,Aspásia, 1842 
+SP,35,04008,Assis, 102924 
+SP,35,04107,Atibaia, 139683 
+SP,35,04206,Auriflama, 15085 
+SP,35,04305,Avaí, 5337 
+SP,35,04404,Avanhandava, 13112 
+SP,35,04503,Avaré, 89479 
+SP,35,04602,Bady Bassitt, 16843 
+SP,35,04701,Balbinos, 5188 
+SP,35,04800,Bálsamo, 8908 
+SP,35,04909,Bananal, 10867 
+SP,35,05005,Barão de Antonina, 3406 
+SP,35,05104,Barbosa, 7251 
+SP,35,05203,Bariri, 34602 
+SP,35,05302,Barra Bonita, 36331 
+SP,35,05351,Barra do Chapéu, 5653 
+SP,35,05401,Barra do Turvo, 7781 
+SP,35,05500,Barretos, 120638 
+SP,35,05609,Barrinha, 31921 
+SP,35,05708,Barueri, 267534 
+SP,35,05807,Bastos, 21073 
+SP,35,05906,Batatais, 61480 
+SP,35,06003,Bauru, 371690 
+SP,35,06102,Bebedouro, 77761 
+SP,35,06201,Bento de Abreu, 2925 
+SP,35,06300,Bernardino de Campos, 11180 
+SP,35,06359,Bertioga, 59297 
+SP,35,06409,Bilac, 7837 
+SP,35,06508,Birigui, 120692 
+SP,35,06607,Biritiba-Mirim, 31793 
+SP,35,06706,Boa Esperança do Sul, 14727 
+SP,35,06805,Bocaina, 12040 
+SP,35,06904,Bofete, 11236 
+SP,35,07001,Boituva, 57910 
+SP,35,07100,Bom Jesus dos Perdões, 24023 
+SP,35,07159,Bom Sucesso de Itararé, 3888 
+SP,35,07209,Borá, 839 
+SP,35,07308,Boracéia, 4717 
+SP,35,07407,Borborema, 15791 
+SP,35,07456,Borebi, 2577 
+SP,35,07506,Botucatu, 142546 
+SP,35,07605,Bragança Paulista, 164163 
+SP,35,07704,Braúna, 5557 
+SP,35,07753,Brejo Alegre, 2812 
+SP,35,07803,Brodowski, 24092 
+SP,35,07902,Brotas, 23858 
+SP,35,08009,Buri, 19737 
+SP,35,08108,Buritama, 16841 
+SP,35,08207,Buritizal, 4408 
+SP,35,08306,Cabrália Paulista, 4352 
+SP,35,08405,Cabreúva, 47877 
+SP,35,08504,Caçapava, 92587 
+SP,35,08603,Cachoeira Paulista, 32773 
+SP,35,08702,Caconde, 19025 
+SP,35,08801,Cafelândia, 17645 
+SP,35,08900,Caiabu, 4211 
+SP,35,09007,Caieiras, 98223 
+SP,35,09106,Caiuá, 5695 
+SP,35,09205,Cajamar, 73921 
+SP,35,09254,Cajati, 28870 
+SP,35,09304,Cajobi, 10444 
+SP,35,09403,Cajuru, 25655 
+SP,35,09452,Campina do Monte Alegre, 5963 
+SP,35,09502,Campinas, 1182429 
+SP,35,09601,Campo Limpo Paulista, 82520 
+SP,35,09700,Campos do Jordão, 51454 
+SP,35,09809,Campos Novos Paulista, 4900 
+SP,35,09908,Cananéia, 12609 
+SP,35,09957,Canas, 4975 
+SP,35,10005,Cândido Mota, 31263 
+SP,35,10104,Cândido Rodrigues, 2792 
+SP,35,10153,Canitar, 5025 
+SP,35,10203,Capão Bonito, 47463 
+SP,35,10302,Capela do Alto, 20005 
+SP,35,10401,Capivari, 54298 
+SP,35,10500,Caraguatatuba, 116786 
+SP,35,10609,Carapicuíba, 396587 
+SP,35,10708,Cardoso, 12328 
+SP,35,10807,Casa Branca, 30144 
+SP,35,10906,Cássia dos Coqueiros, 2591 
+SP,35,11003,Castilho, 20362 
+SP,35,11102,Catanduva, 120691 
+SP,35,11201,Catiguá, 7700 
+SP,35,11300,Cedral, 8971 
+SP,35,11409,Cerqueira César, 19495 
+SP,35,11508,Cerquilho, 46733 
+SP,35,11607,Cesário Lange, 17587 
+SP,35,11706,Charqueada, 16772 
+SP,35,11904,Clementina, 8254 
+SP,35,12001,Colina, 18376 
+SP,35,12100,Colômbia, 6225 
+SP,35,12209,Conchal, 27554 
+SP,35,12308,Conchas, 17638 
+SP,35,12407,Cordeirópolis, 23793 
+SP,35,12506,Coroados, 5885 
+SP,35,12605,Coronel Macedo, 4840 
+SP,35,12704,Corumbataí, 4054 
+SP,35,12803,Cosmópolis, 69086 
+SP,35,12902,Cosmorama, 7374 
+SP,35,13009,Cotia, 237750 
+SP,35,13108,Cravinhos, 34651 
+SP,35,13207,Cristais Paulista, 8424 
+SP,35,13306,Cruzália, 2161 
+SP,35,13405,Cruzeiro, 81724 
+SP,35,13504,Cubatão, 128748 
+SP,35,13603,Cunha, 21929 
+SP,35,13702,Descalvado, 33346 
+SP,35,13801,Diadema, 417869 
+SP,35,13850,Dirce Reis, 1785 
+SP,35,13900,Divinolândia, 11384 
+SP,35,14007,Dobrada, 8744 
+SP,35,14106,Dois Córregos, 26891 
+SP,35,14205,Dolcinópolis, 2136 
+SP,35,14304,Dourado, 8909 
+SP,35,14403,Dracena, 46324 
+SP,35,14502,Duartina, 12549 
+SP,35,14601,Dumont, 9468 
+SP,35,14700,Echaporã, 6247 
+SP,35,14809,Eldorado, 15436 
+SP,35,14908,Elias Fausto, 17393 
+SP,35,14924,Elisiário, 3537 
+SP,35,14957,Embaúba, 2476 
+SP,35,15004,Embu das Artes, 267054 
+SP,35,15103,Embu-Guaçu, 68270 
+SP,35,15129,Emilianópolis, 3197 
+SP,35,15152,Engenheiro Coelho, 19497 
+SP,35,15186,Espírito Santo do Pinhal, 44170 
+SP,35,15194,Espírito Santo do Turvo, 4713 
+SP,35,15202,Estrela d'Oeste, 8466 
+SP,35,15301,Estrela do Norte, 2769 
+SP,35,15350,Euclides da Cunha Paulista, 9559 
+SP,35,15400,Fartura, 16028 
+SP,35,15509,Fernandópolis, 68670 
+SP,35,15608,Fernando Prestes, 5782 
+SP,35,15657,Fernão, 1691 
+SP,35,15707,Ferraz de Vasconcelos, 188868 
+SP,35,15806,Flora Rica, 1571 
+SP,35,15905,Floreal, 2982 
+SP,35,16002,Flórida Paulista, 14282 
+SP,35,16101,Florínia, 2758 
+SP,35,16200,Franca, 347237 
+SP,35,16309,Francisco Morato, 171602 
+SP,35,16408,Franco da Rocha, 149502 
+SP,35,16507,Gabriel Monteiro, 2791 
+SP,35,16606,Gália, 6776 
+SP,35,16705,Garça, 44582 
+SP,35,16804,Gastão Vidigal, 4683 
+SP,35,16853,Gavião Peixoto, 4739 
+SP,35,16903,General Salgado, 10951 
+SP,35,17000,Getulina, 11362 
+SP,35,17109,Glicério, 4800 
+SP,35,17208,Guaiçara, 11869 
+SP,35,17307,Guaimbê, 5737 
+SP,35,17406,Guaíra, 40287 
+SP,35,17505,Guapiaçu, 20637 
+SP,35,17604,Guapiara, 17640 
+SP,35,17703,Guará, 21081 
+SP,35,17802,Guaraçaí, 8466 
+SP,35,17901,Guaraci, 10964 
+SP,35,18008,Guarani d'Oeste, 2017 
+SP,35,18107,Guarantã, 6672 
+SP,35,18206,Guararapes, 32654 
+SP,35,18305,Guararema, 28978 
+SP,35,18404,Guaratinguetá, 120417 
+SP,35,18503,Guareí, 17551 
+SP,35,18602,Guariba, 39216 
+SP,35,18701,Guarujá, 315563 
+SP,35,18800,Guarulhos, 1349113 
+SP,35,18859,Guatapará, 7546 
+SP,35,18909,Guzolândia, 5179 
+SP,35,19006,Herculândia, 9397 
+SP,35,19055,Holambra, 14012 
+SP,35,19071,Hortolândia, 222186 
+SP,35,19105,Iacanga, 11343 
+SP,35,19204,Iacri, 6434 
+SP,35,19253,Iaras, 8484 
+SP,35,19303,Ibaté, 34226 
+SP,35,19402,Ibirá, 12096 
+SP,35,19501,Ibirarema, 7540 
+SP,35,19600,Ibitinga, 58715 
+SP,35,19709,Ibiúna, 77566 
+SP,35,19808,Icém, 8112 
+SP,35,19907,Iepê, 8103 
+SP,35,20004,Igaraçu do Tietê, 24596 
+SP,35,20103,Igarapava, 30073 
+SP,35,20202,Igaratá, 9443 
+SP,35,20301,Iguape, 30644 
+SP,35,20400,Ilhabela, 33354 
+SP,35,20426,Ilha Comprida, 10656 
+SP,35,20442,Ilha Solteira, 26540 
+SP,35,20509,Indaiatuba, 239602 
+SP,35,20608,Indiana, 4931 
+SP,35,20707,Indiaporã, 3951 
+SP,35,20806,Inúbia Paulista, 3933 
+SP,35,20905,Ipaussu, 14766 
+SP,35,21002,Iperó, 34913 
+SP,35,21101,Ipeúna, 7177 
+SP,35,21150,Ipiguá, 5178 
+SP,35,21200,Iporanga, 4299 
+SP,35,21309,Ipuã, 15932 
+SP,35,21408,Iracemápolis, 23264 
+SP,35,21507,Irapuã, 7878 
+SP,35,21606,Irapuru, 8248 
+SP,35,21705,Itaberá, 17879 
+SP,35,21804,Itaí, 26526 
+SP,35,21903,Itajobi, 15246 
+SP,35,22000,Itaju, 3703 
+SP,35,22109,Itanhaém, 98629 
+SP,35,22158,Itaóca, 3341 
+SP,35,22208,Itapecerica da Serra, 170927 
+SP,35,22307,Itapetininga, 160070 
+SP,35,22406,Itapeva, 93570 
+SP,35,22505,Itapevi, 229502 
+SP,35,22604,Itapira, 73844 
+SP,35,22653,Itapirapuã Paulista, 4186 
+SP,35,22703,Itápolis, 42747 
+SP,35,22802,Itaporanga, 15165 
+SP,35,22901,Itapuí, 13618 
+SP,35,23008,Itapura, 4802 
+SP,35,23107,Itaquaquecetuba, 360657 
+SP,35,23206,Itararé, 50379 
+SP,35,23305,Itariri, 17062 
+SP,35,23404,Itatiba, 116503 
+SP,35,23503,Itatinga, 20158 
+SP,35,23602,Itirapina, 17589 
+SP,35,23701,Itirapuã, 6405 
+SP,35,23800,Itobi, 7853 
+SP,35,23909,Itu, 170157 
+SP,35,24006,Itupeva, 57031 
+SP,35,24105,Ituverava, 41414 
+SP,35,24204,Jaborandi, 6917 
+SP,35,24303,Jaboticabal, 76563 
+SP,35,24402,Jacareí, 229851 
+SP,35,24501,Jaci, 6728 
+SP,35,24600,Jacupiranga, 17900 
+SP,35,24709,Jaguariúna, 54204 
+SP,35,24808,Jales, 49110 
+SP,35,24907,Jambeiro, 6305 
+SP,35,25003,Jandira, 121492 
+SP,35,25102,Jardinópolis, 42904 
+SP,35,25201,Jarinu, 28540 
+SP,35,25300,Jaú, 146338 
+SP,35,25409,Jeriquara, 3202 
+SP,35,25508,Joanópolis, 12947 
+SP,35,25607,João Ramalho, 4468 
+SP,35,25706,José Bonifácio, 36198 
+SP,35,25805,Júlio Mesquita, 4733 
+SP,35,25854,Jumirim, 3237 
+SP,35,25904,Jundiaí, 409497 
+SP,35,26001,Junqueirópolis, 20353 
+SP,35,26100,Juquiá, 19192 
+SP,35,26209,Juquitiba, 31027 
+SP,35,26308,Lagoinha, 4943 
+SP,35,26407,Laranjal Paulista, 27890 
+SP,35,26506,Lavínia, 11156 
+SP,35,26605,Lavrinhas, 7150 
+SP,35,26704,Leme, 101184 
+SP,35,26803,Lençóis Paulista, 67185 
+SP,35,26902,Limeira, 300911 
+SP,35,27009,Lindóia, 7695 
+SP,35,27108,Lins, 77021 
+SP,35,27207,Lorena, 87980 
+SP,35,27256,Lourdes, 2270 
+SP,35,27306,Louveira, 45922 
+SP,35,27405,Lucélia, 21461 
+SP,35,27504,Lucianópolis, 2381 
+SP,35,27603,Luís Antônio, 14021 
+SP,35,27702,Luiziânia, 5633 
+SP,35,27801,Lupércio, 4573 
+SP,35,27900,Lutécia, 2705 
+SP,35,28007,Macatuba, 17111 
+SP,35,28106,Macaubal, 8086 
+SP,35,28205,Macedônia, 3736 
+SP,35,28304,Magda, 3185 
+SP,35,28403,Mairinque, 46567 
+SP,35,28502,Mairiporã, 95601 
+SP,35,28601,Manduri, 9714 
+SP,35,28700,Marabá Paulista, 5611 
+SP,35,28809,Maracaí, 13981 
+SP,35,28858,Marapoama, 2949 
+SP,35,28908,Mariápolis, 4087 
+SP,35,29005,Marília, 235234 
+SP,35,29104,Marinópolis, 2140 
+SP,35,29203,Martinópolis, 26123 
+SP,35,29302,Matão, 82307 
+SP,35,29401,Mauá, 462005 
+SP,35,29500,Mendonça, 5302 
+SP,35,29609,Meridiano, 3892 
+SP,35,29658,Mesópolis, 1926 
+SP,35,29708,Miguelópolis, 21973 
+SP,35,29807,Mineiros do Tietê, 12812 
+SP,35,29906,Miracatu, 20288 
+SP,35,30003,Mira Estrela, 3045 
+SP,35,30102,Mirandópolis, 29315 
+SP,35,30201,Mirante do Paranapanema, 18130 
+SP,35,30300,Mirassol, 58760 
+SP,35,30409,Mirassolândia, 4758 
+SP,35,30508,Mococa, 68994 
+SP,35,30607,Mogi das Cruzes, 433901 
+SP,35,30706,Mogi Guaçu, 149396 
+SP,35,30805,Mogi Mirim, 92365 
+SP,35,30904,Mombuca, 3470 
+SP,35,31001,Monções, 2249 
+SP,35,31100,Mongaguá, 54257 
+SP,35,31209,Monte Alegre do Sul, 7871 
+SP,35,31308,Monte Alto, 49979 
+SP,35,31407,Monte Aprazível, 24393 
+SP,35,31506,Monte Azul Paulista, 19234 
+SP,35,31605,Monte Castelo, 4190 
+SP,35,31704,Monteiro Lobato, 4549 
+SP,35,31803,Monte Mor, 57240 
+SP,35,31902,Morro Agudo, 32220 
+SP,35,32009,Morungaba, 13232 
+SP,35,32058,Motuca, 4676 
+SP,35,32108,Murutinga do Sul, 4453 
+SP,35,32157,Nantes, 3049 
+SP,35,32207,Narandiba, 4746 
+SP,35,32306,Natividade da Serra, 6754 
+SP,35,32405,Nazaré Paulista, 18121 
+SP,35,32504,Neves Paulista, 8999 
+SP,35,32603,Nhandeara, 11398 
+SP,35,32702,Nipoã, 4994 
+SP,35,32801,Nova Aliança, 6733 
+SP,35,32827,Nova Campina, 9504 
+SP,35,32843,Nova Canaã Paulista, 1978 
+SP,35,32868,Nova Castilho, 1239 
+SP,35,32900,Nova Europa, 10755 
+SP,35,33007,Nova Granada, 21071 
+SP,35,33106,Nova Guataporanga, 2304 
+SP,35,33205,Nova Independência, 3745 
+SP,35,33254,Novais, 5527 
+SP,35,33304,Nova Luzitânia, 3953 
+SP,35,33403,Nova Odessa, 58227 
+SP,35,33502,Novo Horizonte, 40225 
+SP,35,33601,Nuporanga, 7341 
+SP,35,33700,Ocauçu, 4308 
+SP,35,33809,Óleo, 2583 
+SP,35,33908,Olímpia, 54037 
+SP,35,34005,Onda Verde, 4286 
+SP,35,34104,Oriente, 6473 
+SP,35,34203,Orindiúva, 6731 
+SP,35,34302,Orlândia, 43306 
+SP,35,34401,Osasco, 697886 
+SP,35,34500,Oscar Bressane, 2616 
+SP,35,34609,Osvaldo Cruz, 32709 
+SP,35,34708,Ourinhos, 111813 
+SP,35,34757,Ouroeste, 9897 
+SP,35,34807,Ouro Verde, 8440 
+SP,35,34906,Pacaembu, 14086 
+SP,35,35002,Palestina, 12542 
+SP,35,35101,Palmares Paulista, 12730 
+SP,35,35200,Palmeira d'Oeste, 9496 
+SP,35,35309,Palmital, 22196 
+SP,35,35408,Panorama, 15619 
+SP,35,35507,Paraguaçu Paulista, 45255 
+SP,35,35606,Paraibuna, 18206 
+SP,35,35705,Paraíso, 6369 
+SP,35,35804,Paranapanema, 19730 
+SP,35,35903,Paranapuã, 4051 
+SP,35,36000,Parapuã, 11073 
+SP,35,36109,Pardinho, 6259 
+SP,35,36208,Pariquera-Açu, 19537 
+SP,35,36257,Parisi, 2150 
+SP,35,36307,Patrocínio Paulista, 14351 
+SP,35,36406,Paulicéia, 7147 
+SP,35,36505,Paulínia, 102499 
+SP,35,36570,Paulistânia, 1841 
+SP,35,36604,Paulo de Faria, 8953 
+SP,35,36703,Pederneiras, 45708 
+SP,35,36802,Pedra Bela, 6078 
+SP,35,36901,Pedranópolis, 2547 
+SP,35,37008,Pedregulho, 16645 
+SP,35,37107,Pedreira, 46598 
+SP,35,37156,Pedrinhas Paulista, 3087 
+SP,35,37206,Pedro de Toledo, 11136 
+SP,35,37305,Penápolis, 62738 
+SP,35,37404,Pereira Barreto, 25790 
+SP,35,37503,Pereiras, 8410 
+SP,35,37602,Peruíbe, 66572 
+SP,35,37701,Piacatu, 5846 
+SP,35,37800,Piedade, 55092 
+SP,35,37909,Pilar do Sul, 28718 
+SP,35,38006,Pindamonhangaba, 164000 
+SP,35,38105,Pindorama, 16656 
+SP,35,38204,Pinhalzinho, 14763 
+SP,35,38303,Piquerobi, 3693 
+SP,35,38501,Piquete, 13976 
+SP,35,38600,Piracaia, 26991 
+SP,35,38709,Piracicaba, 397322 
+SP,35,38808,Piraju, 29790 
+SP,35,38907,Pirajuí, 24973 
+SP,35,39004,Pirangi, 11323 
+SP,35,39103,Pirapora do Bom Jesus, 18174 
+SP,35,39202,Pirapozinho, 27021 
+SP,35,39301,Pirassununga, 75474 
+SP,35,39400,Piratininga, 13335 
+SP,35,39509,Pitangueiras, 38889 
+SP,35,39608,Planalto, 5067 
+SP,35,39707,Platina, 3488 
+SP,35,39806,Poá, 115488 
+SP,35,39905,Poloni, 5935 
+SP,35,40002,Pompéia, 21674 
+SP,35,40101,Pongaí, 3480 
+SP,35,40200,Pontal, 47638 
+SP,35,40259,Pontalinda, 4519 
+SP,35,40309,Pontes Gestal, 2594 
+SP,35,40408,Populina, 4240 
+SP,35,40507,Porangaba, 9565 
+SP,35,40606,Porto Feliz, 52507 
+SP,35,40705,Porto Ferreira, 55432 
+SP,35,40754,Potim, 23360 
+SP,35,40804,Potirendaba, 17002 
+SP,35,40853,Pracinha, 3768 
+SP,35,40903,Pradópolis, 20516 
+SP,35,41000,Praia Grande, 310024 
+SP,35,41059,Pratânia, 5126 
+SP,35,41109,Presidente Alves, 4155 
+SP,35,41208,Presidente Bernardes, 13420 
+SP,35,41307,Presidente Epitácio, 43897 
+SP,35,41406,Presidente Prudente, 225271 
+SP,35,41505,Presidente Venceslau, 39544 
+SP,35,41604,Promissão, 39506 
+SP,35,41653,Quadra, 3680 
+SP,35,41703,Quatá, 13893 
+SP,35,41802,Queiroz, 3267 
+SP,35,41901,Queluz, 12949 
+SP,35,42008,Quintana, 6530 
+SP,35,42107,Rafard, 9054 
+SP,35,42206,Rancharia, 29821 
+SP,35,42305,Redenção da Serra, 3908 
+SP,35,42404,Regente Feijó, 19985 
+SP,35,42503,Reginópolis, 9042 
+SP,35,42602,Registro, 56430 
+SP,35,42701,Restinga, 7384 
+SP,35,42800,Ribeira, 3390 
+SP,35,42909,Ribeirão Bonito, 13060 
+SP,35,43006,Ribeirão Branco, 17220 
+SP,35,43105,Ribeirão Corrente, 4644 
+SP,35,43204,Ribeirão do Sul, 4571 
+SP,35,43238,Ribeirão dos Índios, 2243 
+SP,35,43253,Ribeirão Grande, 7697 
+SP,35,43303,Ribeirão Pires, 121848 
+SP,35,43402,Ribeirão Preto, 682302 
+SP,35,43501,Riversul, 5792 
+SP,35,43600,Rifaina, 3618 
+SP,35,43709,Rincão, 10823 
+SP,35,43808,Rinópolis, 10098 
+SP,35,43907,Rio Claro, 202952 
+SP,35,44004,Rio das Pedras, 33935 
+SP,35,44103,Rio Grande da Serra, 49408 
+SP,35,44202,Riolândia, 12086 
+SP,35,44251,Rosana, 17795 
+SP,35,44301,Roseira, 10512 
+SP,35,44400,Rubiácea, 3046 
+SP,35,44509,Rubinéia, 3102 
+SP,35,44608,Sabino, 5549 
+SP,35,44707,Sagres, 2453 
+SP,35,44806,Sales, 6144 
+SP,35,44905,Sales Oliveira, 11641 
+SP,35,45001,Salesópolis, 16903 
+SP,35,45100,Salmourão, 5222 
+SP,35,45159,Saltinho, 8019 
+SP,35,45209,Salto, 116191 
+SP,35,45308,Salto de Pirapora, 44397 
+SP,35,45407,Salto Grande, 9287 
+SP,35,45506,Sandovalina, 4174 
+SP,35,45605,Santa Adélia, 15331 
+SP,35,45704,Santa Albertina, 5999 
+SP,35,45803,Santa Bárbara d'Oeste, 191889 
+SP,35,46009,Santa Branca, 14667 
+SP,35,46108,Santa Clara d'Oeste, 2134 
+SP,35,46207,Santa Cruz da Conceição, 4409 
+SP,35,46256,Santa Cruz da Esperança, 2110 
+SP,35,46306,Santa Cruz das Palmeiras, 33455 
+SP,35,46405,Santa Cruz do Rio Pardo, 47148 
+SP,35,46504,Santa Ernestina, 5662 
+SP,35,46603,Santa Fé do Sul, 31802 
+SP,35,46702,Santa Gertrudes, 25637 
+SP,35,46801,Santa Isabel, 56014 
+SP,35,46900,Santa Lúcia, 8758 
+SP,35,47007,Santa Maria da Serra, 6021 
+SP,35,47106,Santa Mercedes, 2945 
+SP,35,47205,Santana da Ponte Pensa, 1555 
+SP,35,47304,Santana de Parnaíba, 131887 
+SP,35,47403,Santa Rita d'Oeste, 2544 
+SP,35,47502,Santa Rita do Passa Quatro, 27590 
+SP,35,47601,Santa Rosa de Viterbo, 26067 
+SP,35,47650,Santa Salete, 1536 
+SP,35,47700,Santo Anastácio, 21030 
+SP,35,47809,Santo André, 715231 
+SP,35,47908,Santo Antônio da Alegria, 6829 
+SP,35,48005,Santo Antônio de Posse, 22801 
+SP,35,48054,Santo Antônio do Aracanguá, 8285 
+SP,35,48104,Santo Antônio do Jardim, 6029 
+SP,35,48203,Santo Antônio do Pinhal, 6800 
+SP,35,48302,Santo Expedito, 3057 
+SP,35,48401,Santópolis do Aguapeí, 4687 
+SP,35,48500,Santos, 434742 
+SP,35,48609,São Bento do Sapucaí, 10895 
+SP,35,48708,São Bernardo do Campo, 827437 
+SP,35,48807,São Caetano do Sul, 159608 
+SP,35,48906,São Carlos, 246088 
+SP,35,49003,São Francisco, 2850 
+SP,35,49102,São João da Boa Vista, 90089 
+SP,35,49201,São João das Duas Pontes, 2601 
+SP,35,49250,São João de Iracema, 1904 
+SP,35,49300,São João do Pau d'Alho, 2132 
+SP,35,49409,São Joaquim da Barra, 50921 
+SP,35,49508,São José da Bela Vista, 8885 
+SP,35,49607,São José do Barreiro, 4181 
+SP,35,49706,São José do Rio Pardo, 54734 
+SP,35,49805,São José do Rio Preto, 450657 
+SP,35,49904,São José dos Campos, 703219 
+SP,35,49953,São Lourenço da Serra, 15465 
+SP,35,50001,São Luís do Paraitinga, 10740 
+SP,35,50100,São Manuel, 40692 
+SP,35,50209,São Miguel Arcanjo, 32910 
+SP,35,50308,São Paulo, 12106920 
+SP,35,50407,São Pedro, 34898 
+SP,35,50506,São Pedro do Turvo, 7624 
+SP,35,50605,São Roque, 88473 
+SP,35,50704,São Sebastião, 85538 
+SP,35,50803,São Sebastião da Grama, 12317 
+SP,35,50902,São Simão, 15225 
+SP,35,51009,São Vicente, 360380 
+SP,35,51108,Sarapuí, 10034 
+SP,35,51207,Sarutaiá, 3681 
+SP,35,51306,Sebastianópolis do Sul, 3411 
+SP,35,51405,Serra Azul, 13810 
+SP,35,51504,Serrana, 43790 
+SP,35,51603,Serra Negra, 28742 
+SP,35,51702,Sertãozinho, 122643 
+SP,35,51801,Sete Barras, 13053 
+SP,35,51900,Severínia, 17115 
+SP,35,52007,Silveiras, 6228 
+SP,35,52106,Socorro, 40220 
+SP,35,52205,Sorocaba, 659871 
+SP,35,52304,Sud Mennucci, 7733 
+SP,35,52403,Sumaré, 273007 
+SP,35,52502,Suzano, 290769 
+SP,35,52551,Suzanápolis, 3836 
+SP,35,52601,Tabapuã, 12251 
+SP,35,52700,Tabatinga, 16159 
+SP,35,52809,Taboão da Serra, 279634 
+SP,35,52908,Taciba, 6193 
+SP,35,53005,Taguaí, 13111 
+SP,35,53104,Taiaçu, 6255 
+SP,35,53203,Taiúva, 5603 
+SP,35,53302,Tambaú, 23267 
+SP,35,53401,Tanabi, 25723 
+SP,35,53500,Tapiraí, 7973 
+SP,35,53609,Tapiratiba, 13062 
+SP,35,53658,Taquaral, 2823 
+SP,35,53708,Taquaritinga, 56951 
+SP,35,53807,Taquarituba, 23240 
+SP,35,53856,Taquarivaí, 5715 
+SP,35,53906,Tarabai, 7302 
+SP,35,53955,Tarumã, 14547 
+SP,35,54003,Tatuí, 118939 
+SP,35,54102,Taubaté, 307953 
+SP,35,54201,Tejupá, 4677 
+SP,35,54300,Teodoro Sampaio, 22914 
+SP,35,54409,Terra Roxa, 9227 
+SP,35,54508,Tietê, 41022 
+SP,35,54607,Timburi, 2690 
+SP,35,54656,Torre de Pedra, 2395 
+SP,35,54706,Torrinha, 9934 
+SP,35,54755,Trabiju, 1691 
+SP,35,54805,Tremembé, 45904 
+SP,35,54904,Três Fronteiras, 5767 
+SP,35,54953,Tuiuti, 6689 
+SP,35,55000,Tupã, 65758 
+SP,35,55109,Tupi Paulista, 15321 
+SP,35,55208,Turiúba, 2016 
+SP,35,55307,Turmalina, 1827 
+SP,35,55356,Ubarana, 6080 
+SP,35,55406,Ubatuba, 88313 
+SP,35,55505,Ubirajara, 4734 
+SP,35,55604,Uchoa, 10047 
+SP,35,55703,União Paulista, 1793 
+SP,35,55802,Urânia, 9148 
+SP,35,55901,Uru, 1207 
+SP,35,56008,Urupês, 13655 
+SP,35,56107,Valentim Gentil, 12800 
+SP,35,56206,Valinhos, 124024 
+SP,35,56305,Valparaíso, 25632 
+SP,35,56354,Vargem, 10143 
+SP,35,56404,Vargem Grande do Sul, 42310 
+SP,35,56453,Vargem Grande Paulista, 50346 
+SP,35,56503,Várzea Paulista, 118917 
+SP,35,56602,Vera Cruz, 10963 
+SP,35,56701,Vinhedo, 75129 
+SP,35,56800,Viradouro, 18654 
+SP,35,56909,Vista Alegre do Alto, 8335 
+SP,35,56958,Vitória Brasil, 1833 
+SP,35,57006,Votorantim, 119898 
+SP,35,57105,Votuporanga, 92768 
+SP,35,57154,Zacarias, 2636 
+SP,35,57204,Chavantes, 12487 
+SP,35,57303,Estiva Gerbi, 11067 

@@ -1,0 +1,646 @@
+"cidade" "ano" "homic" "furto" "roubo" "veicu"
+"17" "Adamantina" 2017 1 206 6 11
+"34" "Adolfo" 2017 1 40 0 2
+"51" "Aguaí" 2017 1 380 59 22
+"68" "Águas da Prata" 2017 0 43 2 6
+"85" "Águas de Lindóia" 2017 1 164 21 27
+"102" "Águas de Santa Bárbara" 2017 0 74 8 3
+"119" "Águas de São Pedro" 2017 0 21 1 4
+"136" "Agudos" 2017 5 449 63 45
+"153" "Alambari" 2017 0 39 15 0
+"170" "Alfredo Marcondes" 2017 1 22 0 0
+"187" "Altair" 2017 1 20 1 1
+"204" "Altinópolis" 2017 2 132 11 14
+"221" "Alto Alegre" 2017 0 20 0 1
+"238" "Alumínio" 2017 2 143 21 16
+"255" "Álvares Florence" 2017 0 45 0 3
+"272" "Álvares Machado" 2017 1 240 15 12
+"289" "Álvaro de Carvalho" 2017 0 46 0 0
+"306" "Alvinlândia" 2017 0 24 0 0
+"323" "Americana" 2017 16 3 733 1
+"340" "Américo Brasiliense" 2017 4 244 49 19
+"357" "Américo de Campos" 2017 0 109 3 6
+"374" "Amparo" 2017 1 593 75 87
+"391" "Analândia" 2017 1 55 5 5
+"408" "Andradina" 2017 9 788 35 35
+"425" "Angatuba" 2017 3 236 32 24
+"442" "Anhembi" 2017 4 23 3 2
+"459" "Anhumas" 2017 0 31 1 0
+"476" "Aparecida d'Oeste" 2017 0 32 1 2
+"493" "Aparecida" 2017 2 848 212 62
+"510" "Apiaí" 2017 4 251 11 11
+"527" "Araçariguama" 2017 2 231 68 49
+"544" "Araçatuba" 2017 19 2 395 222
+"561" "Araçoiaba da Serra" 2017 2 413 65 33
+"578" "Aramina" 2017 0 67 20 1
+"595" "Arandu" 2017 0 39 1 1
+"612" "Arapeí" 2017 0 22 1 0
+"629" "Araraquara" 2017 11 3 763 372
+"646" "Araras" 2017 9 1 268 381
+"663" "Arco-Íris" 2017 0 6 0 0
+"680" "Arealva" 2017 1 131 5 12
+"697" "Areias" 2017 0 15 1 0
+"714" "Areiópolis" 2017 1 45 7 0
+"731" "Ariranha" 2017 1 43 4 6
+"748" "Artur Nogueira" 2017 2 500 114 164
+"765" "Arujá" 2017 11 566 437 367
+"782" "Aspásia" 2017 0 4 0 0
+"799" "Assis" 2017 10 1 174 180
+"816" "Atibaia" 2017 10 1 628 365
+"833" "Auriflama" 2017 1 84 6 11
+"850" "Avaí" 2017 0 39 1 1
+"867" "Avanhandava" 2017 2 72 7 5
+"884" "Avaré" 2017 5 858 65 53
+"901" "Bady Bassitt" 2017 1 112 16 33
+"918" "Balbinos" 2017 1 10 0 1
+"935" "Bálsamo" 2017 1 100 0 6
+"952" "Bananal" 2017 0 47 0 3
+"969" "Barão de Antonina" 2017 0 12 1 1
+"986" "Barbosa" 2017 1 68 3 2
+"1003" "Bariri" 2017 0 512 39 24
+"1020" "Barra Bonita" 2017 0 371 36 48
+"1037" "Barra do Chapéu" 2017 0 17 4 0
+"1054" "Barra do Turvo" 2017 0 99 19 8
+"1071" "Barretos" 2017 9 2 214 286
+"1088" "Barrinha" 2017 1 191 68 24
+"1105" "Barueri" 2017 28 1 1 517
+"1122" "Bastos" 2017 1 160 7 4
+"1139" "Batatais" 2017 4 642 63 107
+"1156" "Bauru" 2017 26 5 1 774
+"1173" "Bebedouro" 2017 4 920 198 179
+"1190" "Bento de Abreu" 2017 0 25 0 0
+"1207" "Bernardino de Campos" 2017 1 105 2 3
+"1224" "Bertioga" 2017 8 1 403 139
+"1241" "Bilac" 2017 0 42 4 2
+"1258" "Birigui" 2017 10 1 221 147
+"1275" "Biritiba Mirim" 2017 0 275 32 20
+"1292" "Boa Esperança do Sul" 2017 1 115 16 3
+"1309" "Bocaina" 2017 1 111 10 7
+"1326" "Bofete" 2017 0 60 3 1
+"1343" "Boituva" 2017 6 486 132 170
+"1360" "Bom Jesus dos Perdões" 2017 1 172 35 44
+"1377" "Bom Sucesso de Itararé" 2017 1 19 2 2
+"1394" "Borá" 2017 0 2 0 0
+"1411" "Boracéia" 2017 1 63 0 3
+"1428" "Borborema" 2017 0 139 9 13
+"1445" "Borebi" 2017 0 24 0 0
+"1462" "Botucatu" 2017 5 1 60 35
+"1479" "Bragança Paulista" 2017 11 2 323 159
+"1496" "Braúna" 2017 0 25 1 2
+"1513" "Brejo Alegre" 2017 1 36 1 1
+"1530" "Brodowski" 2017 2 176 28 24
+"1547" "Brotas" 2017 0 254 26 20
+"1564" "Buri" 2017 3 190 17 6
+"1581" "Buritama" 2017 2 208 12 14
+"1598" "Buritizal" 2017 0 64 3 2
+"1615" "Cabrália Paulista" 2017 0 66 3 3
+"1632" "Cabreúva" 2017 1 273 61 27
+"1649" "Caçapava" 2017 12 871 395 287
+"1666" "Cachoeira Paulista" 2017 1 288 40 44
+"1683" "Caconde" 2017 1 102 7 13
+"1700" "Cafelândia" 2017 0 213 15 6
+"1717" "Caiabu" 2017 0 20 2 0
+"1734" "Caieiras" 2017 5 395 208 148
+"1751" "Caiuá" 2017 4 45 1 2
+"1768" "Cajamar" 2017 7 416 240 92
+"1785" "Cajati" 2017 6 344 90 26
+"1802" "Cajobi" 2017 1 92 2 2
+"1819" "Cajuru" 2017 3 219 27 15
+"1836" "Campina do Monte Alegre" 2017 0 57 3 8
+"1853" "Campinas" 2017 137 16 9 7
+"1870" "Campo Limpo Paulista" 2017 5 599 337 298
+"1887" "Campos do Jordão" 2017 4 360 76 27
+"1904" "Campos Novos Paulista" 2017 1 48 3 5
+"1921" "Cananéia" 2017 0 220 7 4
+"1938" "Canas" 2017 2 32 11 6
+"1955" "Cândido Mota" 2017 1 241 15 38
+"1972" "Cândido Rodrigues" 2017 0 17 1 2
+"1989" "Canitar" 2017 0 31 9 6
+"2006" "Capão Bonito" 2017 4 542 87 36
+"2023" "Capela do Alto" 2017 1 149 16 21
+"2040" "Capivari" 2017 3 327 88 76
+"2057" "Caraguatatuba" 2017 24 1 785 189
+"2074" "Carapicuíba" 2017 28 1 3 1
+"2091" "Cardoso" 2017 3 200 10 12
+"2108" "Casa Branca" 2017 3 391 32 24
+"2125" "Cássia dos Coqueiros" 2017 1 38 3 2
+"2142" "Castilho" 2017 4 261 13 26
+"2159" "Catanduva" 2017 6 1 167 258
+"2176" "Catiguá" 2017 0 46 0 5
+"2193" "Cedral" 2017 0 102 2 1
+"2210" "Cerqueira César" 2017 1 164 15 14
+"2227" "Cerquilho" 2017 1 283 104 77
+"2244" "Cesário Lange" 2017 0 123 20 16
+"2261" "Charqueada" 2017 0 147 30 15
+"2278" "Chavantes" 2017 1 130 10 4
+"2295" "Clementina" 2017 1 46 5 3
+"2312" "Colina" 2017 2 273 32 20
+"2329" "Colômbia" 2017 2 62 8 15
+"2346" "Conchal" 2017 0 321 89 60
+"2363" "Conchas" 2017 1 111 9 14
+"2380" "Cordeirópolis" 2017 1 294 56 38
+"2397" "Coroados" 2017 2 39 5 2
+"2414" "Coronel Macedo" 2017 0 21 1 1
+"2431" "Corumbataí" 2017 0 53 6 3
+"2448" "Cosmópolis" 2017 6 832 303 298
+"2465" "Cosmorama" 2017 0 85 6 1
+"2482" "Cotia" 2017 29 1 1 588
+"2499" "Cravinhos" 2017 3 219 43 44
+"2516" "Cristais Paulista" 2017 0 154 4 5
+"2533" "Cruzália" 2017 0 14 0 0
+"2550" "Cruzeiro" 2017 13 761 217 120
+"2567" "Cubatão" 2017 14 890 908 407
+"2584" "Cunha" 2017 4 151 41 20
+"2601" "Descalvado" 2017 5 318 51 34
+"2618" "Diadema" 2017 38 3 6 3
+"2635" "Dirce Reis" 2017 0 3 0 0
+"2652" "Divinolândia" 2017 0 85 3 13
+"2669" "Dobrada" 2017 0 25 6 5
+"2686" "Dois Córregos" 2017 1 251 17 14
+"2703" "Dolcinópolis" 2017 0 12 0 0
+"2720" "Dourado" 2017 0 83 2 3
+"2737" "Dracena" 2017 1 425 12 19
+"2754" "Duartina" 2017 0 77 2 6
+"2771" "Dumont" 2017 0 60 17 8
+"2788" "Echaporã" 2017 0 22 1 1
+"2805" "Eldorado" 2017 1 89 1 10
+"2822" "Elias Fausto" 2017 2 72 23 23
+"2839" "Elisiário" 2017 1 14 3 3
+"2856" "Embaúba" 2017 0 43 2 0
+"2873" "Embu das Artes" 2017 26 761 1 600
+"2890" "Embu Guaçú" 2017 7 387 207 146
+"2907" "Emilianópolis" 2017 0 14 0 0
+"2924" "Engenheiro Coelho" 2017 4 140 21 25
+"2941" "Espírito Santo do Pinhal" 2017 1 333 30 45
+"2958" "Espírito Santo do Turvo" 2017 1 39 2 2
+"2975" "Estiva Gerbi" 2017 0 148 15 14
+"2992" "Estrela d'Oeste" 2017 0 59 1 4
+"3009" "Estrela do Norte" 2017 0 17 0 1
+"3026" "Euclides da Cunha Paulista" 2017 1 57 8 5
+"3043" "Fartura" 2017 1 157 9 12
+"3060" "Fernando Prestes" 2017 0 60 5 2
+"3077" "Fernandópolis" 2017 0 764 32 73
+"3094" "Fernão" 2017 0 8 1 0
+"3111" "Ferraz de Vasconcelos" 2017 15 1 1 947
+"3128" "Flora Rica" 2017 0 7 0 0
+"3145" "Floreal" 2017 0 41 1 1
+"3162" "Flórida Paulista" 2017 0 69 2 1
+"3179" "Florínia" 2017 0 25 1 2
+"3196" "Franca" 2017 25 6 679 802
+"3213" "Francisco Morato" 2017 22 809 1 219
+"3230" "Franco da Rocha" 2017 13 749 656 321
+"3247" "Gabriel Monteiro" 2017 0 14 2 0
+"3264" "Gália" 2017 0 97 10 1
+"3281" "Garça" 2017 2 701 57 44
+"3298" "Gastão Vidigal" 2017 0 25 1 1
+"3315" "Gavião Peixoto" 2017 0 29 4 7
+"3332" "General Salgado" 2017 3 60 3 1
+"3349" "Getulina" 2017 0 121 3 3
+"3366" "Glicério" 2017 0 39 1 2
+"3383" "Guaiçara" 2017 0 146 11 11
+"3400" "Guaimbê" 2017 0 61 3 0
+"3417" "Guaíra" 2017 4 554 69 71
+"3434" "Guapiaçu" 2017 1 105 12 11
+"3451" "Guapiara" 2017 0 76 7 11
+"3468" "Guará" 2017 3 534 39 14
+"3485" "Guaraçaí" 2017 0 50 2 1
+"3502" "Guaraci" 2017 1 69 6 13
+"3519" "Guarani d'Oeste" 2017 0 17 0 1
+"3536" "Guarantã" 2017 0 70 8 2
+"3553" "Guararapes" 2017 5 270 41 8
+"3570" "Guararema" 2017 0 242 28 28
+"3587" "Guaratinguetá" 2017 20 1 475 146
+"3604" "Guareí" 2017 2 183 20 9
+"3621" "Guariba" 2017 7 357 130 72
+"3638" "Guarujá" 2017 23 2 3 627
+"3655" "Guarulhos" 2017 131 10 8 5
+"3672" "Guatapará" 2017 0 81 13 4
+"3689" "Guzolândia" 2017 0 35 0 1
+"3706" "Herculândia" 2017 0 70 1 0
+"3723" "Holambra" 2017 0 64 6 10
+"3740" "Hortolândia" 2017 27 1 1 847
+"3757" "Iacanga" 2017 0 113 3 5
+"3774" "Iacri" 2017 0 27 3 1
+"3791" "Iaras" 2017 2 27 5 2
+"3808" "Ibaté" 2017 8 220 43 49
+"3825" "Ibirá" 2017 0 107 8 5
+"3842" "Ibirarema" 2017 0 36 12 7
+"3859" "Ibitinga" 2017 1 910 60 68
+"3876" "Ibiúna" 2017 10 713 240 191
+"3893" "Icém" 2017 0 55 2 3
+"3910" "Iepê" 2017 0 36 2 1
+"3927" "Igaraçu do Tietê" 2017 1 235 41 26
+"3944" "Igarapava" 2017 1 364 55 26
+"3961" "Igaratá" 2017 2 158 29 25
+"3978" "Iguape" 2017 6 521 48 20
+"3995" "Ilha Comprida" 2017 0 708 81 16
+"4012" "Ilha Solteira" 2017 0 486 14 23
+"4029" "Ilhabela" 2017 1 566 31 22
+"4046" "Indaiatuba" 2017 2 1 442 244
+"4063" "Indiana" 2017 0 42 1 2
+"4080" "Indiaporã" 2017 0 27 0 2
+"4097" "Inúbia Paulista" 2017 0 20 0 0
+"4114" "Ipaussu" 2017 0 119 8 3
+"4131" "Iperó" 2017 6 191 29 19
+"4148" "Ipeúna" 2017 2 100 13 17
+"4165" "Ipiguá" 2017 0 51 1 2
+"4182" "Iporanga" 2017 1 34 2 0
+"4199" "Ipuã" 2017 1 131 8 10
+"4216" "Iracemápolis" 2017 0 247 48 43
+"4233" "Irapuã" 2017 0 58 1 3
+"4250" "Irapuru" 2017 1 51 1 0
+"4267" "Itaberá" 2017 0 100 12 4
+"4284" "Itaí" 2017 3 163 20 7
+"4301" "Itajobi" 2017 0 54 4 22
+"4318" "Itaju" 2017 0 30 5 2
+"4335" "Itanhaém" 2017 16 2 958 405
+"4352" "Itaóca" 2017 1 11 0 0
+"4369" "Itapecerica da Serra" 2017 18 817 1 433
+"4386" "Itapetininga" 2017 4 1 265 145
+"4403" "Itapeva" 2017 1 791 104 62
+"4420" "Itapevi" 2017 36 1 1 512
+"4437" "Itapira" 2017 5 556 164 195
+"4454" "Itapirapuã Paulista" 2017 1 12 1 1
+"4471" "Itápolis" 2017 2 458 35 36
+"4488" "Itaporanga" 2017 1 93 10 4
+"4505" "Itapuí" 2017 0 124 6 6
+"4522" "Itapura" 2017 0 43 1 0
+"4539" "Itaquaquecetuba" 2017 35 1 2 1
+"4556" "Itararé" 2017 0 625 58 23
+"4573" "Itariri" 2017 2 96 11 13
+"4590" "Itatiba" 2017 5 1 401 196
+"4607" "Itatinga" 2017 5 89 15 1
+"4624" "Itirapina" 2017 0 152 17 8
+"4641" "Itirapuã" 2017 1 101 7 15
+"4658" "Itobi" 2017 1 50 4 5
+"4675" "Itu" 2017 13 1 473 549
+"4692" "Itupeva" 2017 7 580 167 90
+"4709" "Ituverava" 2017 3 428 67 41
+"4726" "Jaborandi" 2017 1 35 2 1
+"4743" "Jaboticabal" 2017 5 1 321 218
+"4760" "Jacareí" 2017 28 1 1 906
+"4777" "Jaci" 2017 1 49 0 1
+"4794" "Jacupiranga" 2017 2 135 21 15
+"4811" "Jaguariúna" 2017 1 465 145 146
+"4828" "Jales" 2017 0 559 56 54
+"4845" "Jambeiro" 2017 0 108 9 3
+"4862" "Jandira" 2017 22 646 687 226
+"4879" "Jardinópolis" 2017 3 520 100 102
+"4896" "Jarinu" 2017 5 316 92 61
+"4913" "Jaú" 2017 4 1 177 177
+"4930" "Jeriquara" 2017 1 99 2 4
+"4947" "Joanópolis" 2017 0 121 4 11
+"4964" "João Ramalho" 2017 1 21 0 1
+"4981" "José Bonifácio" 2017 1 479 57 67
+"4998" "Júlio Mesquita" 2017 0 15 0 0
+"5015" "Jumirim" 2017 0 22 5 0
+"5032" "Jundiaí" 2017 17 4 1 997
+"5049" "Junqueirópolis" 2017 0 160 4 4
+"5066" "Juquiá" 2017 2 239 55 15
+"5083" "Juquitiba" 2017 9 346 111 29
+"5100" "Lagoinha" 2017 0 47 9 4
+"5117" "Laranjal Paulista" 2017 1 229 21 20
+"5134" "Lavínia" 2017 0 45 2 0
+"5151" "Lavrinhas" 2017 0 90 26 6
+"5168" "Leme" 2017 8 1 242 202
+"5185" "Lençóis Paulista" 2017 4 737 113 48
+"5202" "Limeira" 2017 14 3 1 1
+"5219" "Lindóia" 2017 0 37 8 8
+"5236" "Lins" 2017 8 1 118 101
+"5253" "Lorena" 2017 28 959 461 85
+"5270" "Lourdes" 2017 0 24 1 2
+"5287" "Louveira" 2017 2 350 91 52
+"5304" "Lucélia" 2017 1 136 6 3
+"5321" "Lucianópolis" 2017 0 21 0 0
+"5338" "Luís Antônio" 2017 0 112 15 10
+"5355" "Luiziânia" 2017 2 17 2 1
+"5372" "Lupércio" 2017 0 27 0 3
+"5389" "Lutécia" 2017 0 24 1 0
+"5406" "Macatuba" 2017 0 162 25 16
+"5423" "Macaubal" 2017 0 74 1 2
+"5440" "Macedônia" 2017 0 31 0 2
+"5457" "Magda" 2017 0 19 0 0
+"5474" "Mairinque" 2017 2 330 89 51
+"5491" "Mairiporã" 2017 12 731 388 299
+"5508" "Manduri" 2017 0 36 1 6
+"5525" "Marabá Paulista" 2017 0 43 0 0
+"5542" "Maracaí" 2017 0 93 6 11
+"5559" "Marapoama" 2017 0 17 1 4
+"5576" "Mariápolis" 2017 0 16 1 0
+"5593" "Marília" 2017 16 2 480 273
+"5610" "Marinópolis" 2017 0 9 0 0
+"5627" "Martinópolis" 2017 0 218 8 10
+"5644" "Matão" 2017 2 709 101 113
+"5661" "Mauá" 2017 45 3 3 3
+"5678" "Mendonça" 2017 0 81 1 6
+"5695" "Meridiano" 2017 0 16 0 1
+"5712" "Mesópolis" 2017 0 8 0 0
+"5729" "Miguelópolis" 2017 2 359 52 27
+"5746" "Mineiros do Tietê" 2017 0 91 13 10
+"5763" "Mira Estrela" 2017 0 22 1 2
+"5780" "Miracatu" 2017 4 285 241 47
+"5797" "Mirandópolis" 2017 2 178 5 4
+"5814" "Mirante do Paranapanema" 2017 1 272 5 16
+"5831" "Mirassol" 2017 6 462 55 59
+"5848" "Mirassolândia" 2017 0 43 1 1
+"5865" "Mococa" 2017 1 527 48 58
+"5882" "Mogi das Cruzes" 2017 19 3 1 991
+"5899" "Mogi Guaçu" 2017 11 1 625 629
+"5916" "Mogi Mirim" 2017 5 978 406 380
+"5933" "Mombuca" 2017 0 27 2 4
+"5950" "Monções" 2017 1 27 0 2
+"5967" "Mongaguá" 2017 7 1 666 302
+"5984" "Monte Alegre do Sul" 2017 0 60 2 1
+"6001" "Monte Alto" 2017 2 523 100 86
+"6018" "Monte Aprazível" 2017 2 170 15 12
+"6035" "Monte Azul Paulista" 2017 2 229 22 18
+"6052" "Monte Castelo" 2017 0 26 1 2
+"6069" "Monte Mor" 2017 7 445 207 108
+"6086" "Monteiro Lobato" 2017 0 61 6 4
+"6103" "Morro Agudo" 2017 1 241 38 19
+"6120" "Morungaba" 2017 0 93 18 25
+"6137" "Motuca" 2017 0 37 5 3
+"6154" "Murutinga do Sul" 2017 0 29 0 1
+"6171" "Nantes" 2017 0 22 0 0
+"6188" "Narandiba" 2017 0 59 0 0
+"6205" "Natividade da Serra" 2017 2 62 3 5
+"6222" "Nazaré Paulista" 2017 1 186 37 39
+"6239" "Neves Paulista" 2017 0 55 6 2
+"6256" "Nhandeara" 2017 0 75 3 16
+"6273" "Nipoã" 2017 1 59 1 4
+"6290" "Nova Aliança" 2017 0 61 3 8
+"6307" "Nova Campina" 2017 0 122 2 3
+"6324" "Nova Canaã Paulista" 2017 0 10 1 0
+"6341" "Nova Castilho" 2017 0 7 0 0
+"6358" "Nova Europa" 2017 0 73 6 8
+"6375" "Nova Granada" 2017 3 142 4 9
+"6392" "Nova Guataporanga" 2017 1 11 0 0
+"6409" "Nova Independência" 2017 0 42 2 1
+"6426" "Nova Luzitânia" 2017 0 19 0 0
+"6443" "Nova Odessa" 2017 3 520 184 143
+"6460" "Novais" 2017 0 21 2 3
+"6477" "Novo Horizonte" 2017 2 384 21 50
+"6494" "Nuporanga" 2017 0 104 3 2
+"6511" "Ocauçu" 2017 0 23 3 2
+"6528" "Óleo" 2017 1 11 1 1
+"6545" "Olímpia" 2017 4 820 87 86
+"6562" "Onda Verde" 2017 0 64 3 1
+"6579" "Oriente" 2017 0 60 4 5
+"6596" "Orindiúva" 2017 0 43 1 2
+"6613" "Orlândia" 2017 0 290 58 45
+"6630" "Osasco" 2017 67 6 9 4
+"6647" "Oscar Bressane" 2017 0 19 0 1
+"6664" "Osvaldo Cruz" 2017 2 227 6 10
+"6681" "Ourinhos" 2017 7 1 166 146
+"6698" "Ouro Verde" 2017 1 36 3 0
+"6715" "Ouroeste" 2017 1 71 3 7
+"6732" "Pacaembu" 2017 0 73 0 3
+"6749" "Palestina" 2017 0 75 1 6
+"6766" "Palmares Paulista" 2017 0 30 5 9
+"6783" "Palmeira d'Oeste" 2017 1 22 1 6
+"6800" "Palmital" 2017 1 262 39 34
+"6817" "Panorama" 2017 1 200 8 7
+"6834" "Paraguaçu Paulista" 2017 2 477 28 18
+"6851" "Paraibuna" 2017 2 198 28 15
+"6868" "Paraíso" 2017 0 24 2 4
+"6885" "Paranapanema" 2017 1 161 9 7
+"6902" "Paranapuã" 2017 1 26 0 4
+"6919" "Parapuã" 2017 0 86 5 3
+"6936" "Pardinho" 2017 0 107 11 5
+"6953" "Pariquera-Açu" 2017 2 154 21 12
+"6970" "Parisi" 2017 0 18 0 0
+"6987" "Patrocínio Paulista" 2017 1 234 24 29
+"7004" "Paulicéia" 2017 1 31 0 8
+"7021" "Paulínia" 2017 15 1 371 249
+"7038" "Paulistânia" 2017 0 5 0 1
+"7055" "Paulo de Faria" 2017 0 70 4 1
+"7072" "Pederneiras" 2017 4 489 49 46
+"7089" "Pedra Bela" 2017 0 53 5 4
+"7106" "Pedranópolis" 2017 0 18 1 0
+"7123" "Pedregulho" 2017 2 265 14 8
+"7140" "Pedreira" 2017 0 267 68 155
+"7157" "Pedrinhas Paulista" 2017 0 12 0 1
+"7174" "Pedro de Toledo" 2017 0 50 8 8
+"7191" "Penápolis" 2017 2 541 29 28
+"7208" "Pereira Barreto" 2017 3 286 18 20
+"7225" "Pereiras" 2017 0 51 1 3
+"7242" "Peruíbe" 2017 8 1 690 129
+"7259" "Piacatu" 2017 1 31 2 1
+"7276" "Piedade" 2017 5 551 63 79
+"7293" "Pilar do Sul" 2017 6 225 37 20
+"7310" "Pindamonhangaba" 2017 22 1 732 298
+"7327" "Pindorama" 2017 1 132 20 6
+"7344" "Pinhalzinho" 2017 0 147 9 6
+"7361" "Piquerobi" 2017 1 20 1 1
+"7378" "Piquete" 2017 3 98 22 7
+"7395" "Piracaia" 2017 1 254 41 21
+"7412" "Piracicaba" 2017 17 3 1 1
+"7429" "Piraju" 2017 2 173 18 14
+"7446" "Pirajuí" 2017 1 180 5 11
+"7463" "Pirangi" 2017 2 84 9 6
+"7480" "Pirapora do Bom Jesus" 2017 2 119 42 3
+"7497" "Pirapozinho" 2017 0 150 11 15
+"7514" "Pirassununga" 2017 3 797 96 88
+"7531" "Piratininga" 2017 2 111 16 12
+"7548" "Pitangueiras" 2017 2 384 49 29
+"7565" "Planalto" 2017 0 50 1 2
+"7582" "Platina" 2017 0 40 0 1
+"7599" "Poá" 2017 8 957 1 704
+"7616" "Poloni" 2017 0 33 4 2
+"7633" "Pompéia" 2017 0 120 5 9
+"7650" "Pongaí" 2017 0 25 4 1
+"7667" "Pontal" 2017 5 284 69 43
+"7684" "Pontalinda" 2017 0 35 1 2
+"7701" "Pontes Gestal" 2017 0 16 1 0
+"7718" "Populina" 2017 0 19 1 2
+"7735" "Porangaba" 2017 0 76 7 6
+"7752" "Porto Feliz" 2017 4 450 117 99
+"7769" "Porto Ferreira" 2017 4 581 120 92
+"7786" "Potim" 2017 6 116 65 7
+"7803" "Potirendaba" 2017 1 114 13 14
+"7820" "Pracinha" 2017 0 5 0 1
+"7837" "Pradópolis" 2017 2 137 22 15
+"7854" "Praia Grande" 2017 25 4 4 1
+"7871" "Pratânia" 2017 1 45 2 4
+"7888" "Presidente Alves" 2017 1 24 0 0
+"7905" "Presidente Bernardes" 2017 0 81 2 5
+"7922" "Presidente Epitácio" 2017 1 475 20 6
+"7939" "Presidente Prudente" 2017 12 2 231 334
+"7956" "Presidente Venceslau" 2017 4 201 4 5
+"7973" "Promissão" 2017 2 537 40 45
+"7990" "Quadra" 2017 0 31 0 1
+"8007" "Quatá" 2017 1 64 1 5
+"8024" "Queiroz" 2017 1 37 0 2
+"8041" "Queluz" 2017 0 122 27 9
+"8058" "Quintana" 2017 0 36 1 1
+"8075" "Rafard" 2017 0 46 12 10
+"8092" "Rancharia" 2017 0 342 15 18
+"8109" "Redenção da Serra" 2017 0 42 4 5
+"8126" "Regente Feijó" 2017 3 155 10 9
+"8143" "Reginópolis" 2017 0 34 2 3
+"8160" "Registro" 2017 2 589 127 35
+"8177" "Restinga" 2017 1 131 8 10
+"8194" "Ribeira" 2017 0 9 1 0
+"8211" "Ribeirão Bonito" 2017 1 93 10 8
+"8228" "Ribeirão Branco" 2017 2 76 1 14
+"8245" "Ribeirão Corrente" 2017 2 56 1 1
+"8262" "Ribeirão do Sul" 2017 0 40 2 2
+"8279" "Ribeirão dos Índios" 2017 0 12 0 1
+"8296" "Ribeirão Grande" 2017 0 56 5 2
+"8313" "Ribeirão Pires" 2017 6 850 606 513
+"8330" "Ribeirão Preto" 2017 39 9 3 2
+"8347" "Rifaina" 2017 2 28 3 2
+"8364" "Rincão" 2017 0 103 19 11
+"8381" "Rinópolis" 2017 0 52 3 1
+"8398" "Rio Claro" 2017 21 2 880 803
+"8415" "Rio das Pedras" 2017 2 301 51 54
+"8432" "Rio Grande da Serra" 2017 3 273 139 66
+"8449" "Riolândia" 2017 4 85 5 1
+"8466" "Riversul" 2017 0 47 2 2
+"8483" "Rosana" 2017 1 172 1 11
+"8500" "Roseira" 2017 2 94 25 8
+"8517" "Rubiácea" 2017 0 9 0 0
+"8534" "Rubinéia" 2017 0 17 0 1
+"8551" "Sabino" 2017 1 81 3 0
+"8568" "Sagres" 2017 0 12 0 1
+"8585" "Sales Oliveira" 2017 0 66 16 5
+"8602" "Sales" 2017 0 83 4 4
+"8619" "Salesópolis" 2017 0 97 14 5
+"8636" "Salmourão" 2017 0 22 2 2
+"8653" "Saltinho" 2017 0 55 10 15
+"8670" "Salto de Pirapora" 2017 6 282 62 21
+"8687" "Salto Grande" 2017 1 175 5 7
+"8704" "Salto" 2017 7 716 204 281
+"8721" "Sandovalina" 2017 0 65 2 1
+"8738" "Santa Adélia" 2017 0 51 4 9
+"8755" "Santa Albertina" 2017 0 43 1 6
+"8772" "Santa Bárbara d'Oeste" 2017 15 1 453 838
+"8789" "Santa Branca" 2017 0 124 21 13
+"8806" "Santa Clara d'Oeste" 2017 0 29 0 4
+"8823" "Santa Cruz da Conceição" 2017 0 47 3 0
+"8840" "Santa Cruz da Esperança" 2017 0 15 3 0
+"8857" "Santa Cruz das Palmeiras" 2017 2 246 52 19
+"8874" "Santa Cruz do Rio Pardo" 2017 0 527 45 27
+"8891" "Santa Ernestina" 2017 0 31 1 5
+"8908" "Santa Fé do Sul" 2017 3 432 17 27
+"8925" "Santa Gertrudes" 2017 4 211 38 44
+"8942" "Santa Isabel" 2017 9 486 196 162
+"8959" "Santa Lúcia" 2017 0 62 4 4
+"8976" "Santa Maria da Serra" 2017 1 43 2 11
+"8993" "Santa Mercedes" 2017 0 12 0 1
+"9010" "Santa Rita d'Oeste" 2017 0 7 1 4
+"9027" "Santa Rita do Passa Quatro" 2017 2 244 57 15
+"9044" "Santa Rosa do Viterbo" 2017 1 239 16 12
+"9061" "Santa Salete" 2017 0 8 0 1
+"9078" "Santana da Ponte Pensa" 2017 0 16 0 1
+"9095" "Santana de Parnaíba" 2017 7 431 123 74
+"9112" "Santo Anastácio" 2017 1 114 8 12
+"9129" "Santo André" 2017 36 7 8 7
+"9146" "Santo Antônio da Alegria" 2017 0 85 0 3
+"9163" "Santo Antônio de Posse" 2017 1 217 26 48
+"9180" "Santo Antônio do Aracanguá" 2017 2 87 1 2
+"9197" "Santo Antônio do Jardim" 2017 0 44 3 2
+"9214" "Santo Antônio do Pinhal" 2017 0 64 10 6
+"9231" "Santo Expedito" 2017 0 30 0 1
+"9248" "Santópolis do Aguapeí" 2017 0 42 1 0
+"9265" "Santos" 2017 13 5 3 1
+"9282" "São Bento do Sapucaí" 2017 0 98 4 9
+"9299" "São Bernardo do Campo" 2017 52 6 6 4
+"9316" "São Caetano do Sul" 2017 3 1 796 754
+"9333" "São Carlos" 2017 22 3 865 565
+"9350" "São Francisco" 2017 0 10 0 1
+"9367" "São João da Boa Vista" 2017 5 806 87 54
+"9384" "São João das Duas Pontes" 2017 0 14 0 0
+"9401" "São João de Iracema" 2017 0 8 0 0
+"9418" "São João do Pau d'Alho" 2017 0 23 0 1
+"9435" "São Joaquim da Barra" 2017 1 514 39 40
+"9452" "São José da Bela Vista" 2017 0 82 2 4
+"9469" "São José do Barreiro" 2017 1 27 1 1
+"9486" "São José do Rio Pardo" 2017 0 532 53 62
+"9503" "São José do Rio Preto" 2017 31 6 1 1
+"9520" "São José dos Campos" 2017 46 6 3 3
+"9537" "São Lourenço da Serra" 2017 4 92 50 16
+"9554" "São Luís do Paraitinga" 2017 0 143 14 1
+"9571" "São Manuel" 2017 1 333 50 14
+"9588" "São Miguel Arcanjo" 2017 1 330 42 23
+"9605" "São Paulo" 2017 713 193 153 74
+"9622" "São Pedro do Turvo" 2017 1 57 3 1
+"9639" "São Pedro" 2017 2 456 87 55
+"9656" "São Roque" 2017 5 792 197 122
+"9673" "São Sebastião da Grama" 2017 1 76 5 6
+"9690" "São Sebastião" 2017 15 1 289 76
+"9707" "São Simão" 2017 1 136 35 9
+"9724" "São Vicente" 2017 26 3 3 1
+"9741" "Sarapuí" 2017 1 169 4 3
+"9758" "Sarutaiá" 2017 0 17 0 2
+"9775" "Sebastianópolis do Sul" 2017 0 21 1 2
+"9792" "Serra Azul" 2017 1 105 8 8
+"9809" "Serra Negra" 2017 0 295 17 44
+"9826" "Serrana" 2017 2 370 58 50
+"9843" "Sertãozinho" 2017 9 1 323 329
+"9860" "Sete Barras" 2017 1 139 10 8
+"9877" "Severínia" 2017 0 84 14 14
+"9894" "Silveiras" 2017 0 48 6 3
+"9911" "Socorro" 2017 1 287 30 40
+"9928" "Sorocaba" 2017 56 7 3 2
+"9945" "Sud Mennucci" 2017 1 74 1 0
+"9962" "Sumaré" 2017 32 2 1 927
+"9979" "Suzanápolis" 2017 0 27 1 4
+"9996" "Suzano" 2017 37 2 2 1
+"10013" "Tabapuã" 2017 2 81 3 3
+"10030" "Tabatinga" 2017 1 103 5 9
+"10047" "Taboão da Serra" 2017 19 1 2 1
+"10064" "Taciba" 2017 2 35 1 1
+"10081" "Taguaí" 2017 0 86 9 6
+"10098" "Taiaçu" 2017 2 46 6 5
+"10115" "Taiúva" 2017 1 57 3 4
+"10132" "Tambaú" 2017 2 258 17 30
+"10149" "Tanabi" 2017 1 303 17 32
+"10166" "Tapiraí" 2017 1 86 5 4
+"10183" "Tapiratiba" 2017 0 74 12 15
+"10200" "Taquaral" 2017 0 17 2 1
+"10217" "Taquaritinga" 2017 2 519 49 34
+"10234" "Taquarituba" 2017 2 242 12 11
+"10251" "Taquarivaí" 2017 0 28 2 4
+"10268" "Tarabaí" 2017 0 79 0 5
+"10285" "Tarumã" 2017 0 108 17 11
+"10302" "Tatuí" 2017 7 957 220 198
+"10319" "Taubaté" 2017 41 3 1 732
+"10336" "Tejupá" 2017 0 37 0 0
+"10353" "Teodoro Sampaio" 2017 2 264 6 21
+"10370" "Terra Roxa" 2017 1 47 5 10
+"10387" "Tietê" 2017 2 295 111 57
+"10404" "Timburi" 2017 0 11 0 0
+"10421" "Torre de Pedra" 2017 0 7 0 1
+"10438" "Torrinha" 2017 1 71 4 5
+"10455" "Trabiju" 2017 0 13 2 0
+"10472" "Tremembé" 2017 15 345 117 65
+"10489" "Três Fronteiras" 2017 0 88 2 3
+"10506" "Tuiuti" 2017 0 54 4 9
+"10523" "Tupã" 2017 4 541 20 32
+"10540" "Tupi Paulista" 2017 4 95 4 1
+"10557" "Turiúba" 2017 0 31 1 0
+"10574" "Turmalina" 2017 0 11 0 0
+"10591" "Ubarana" 2017 0 87 2 3
+"10608" "Ubatuba" 2017 14 1 384 88
+"10625" "Ubirajara" 2017 0 47 2 1
+"10642" "Uchôa" 2017 0 93 3 9
+"10659" "União Paulista" 2017 0 7 0 0
+"10676" "Urânia" 2017 1 46 6 5
+"10693" "Uru" 2017 0 19 0 0
+"10710" "Urupês" 2017 2 71 2 11
+"10727" "Valentim Gentil" 2017 1 168 7 9
+"10744" "Valinhos" 2017 1 872 194 279
+"10761" "Valparaíso" 2017 3 131 8 5
+"10778" "Vargem Grande do Sul" 2017 3 378 19 27
+"10795" "Vargem Grande Paulista" 2017 5 301 190 130
+"10812" "Vargem" 2017 1 78 10 12
+"10829" "Várzea Paulista" 2017 10 675 401 271
+"10846" "Vera Cruz" 2017 2 88 6 4
+"10863" "Vinhedo" 2017 6 691 115 89
+"10880" "Viradouro" 2017 1 170 29 23
+"10897" "Vista Alegre do Alto" 2017 0 80 9 6
+"10914" "Vitória Brasil" 2017 0 10 0 0
+"10931" "Votorantim" 2017 11 956 219 162
+"10948" "Votuporanga" 2017 6 1 85 100
+"10965" "Zacarias" 2017 1 33 1 2
