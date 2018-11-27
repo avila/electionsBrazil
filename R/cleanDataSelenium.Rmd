@@ -64,7 +64,7 @@ clickOccAno()
 clickRegTodos()
 
 i <- 300
-n <- 320
+n <- 500
 vector = i:n
 for (i in vector) {
     
