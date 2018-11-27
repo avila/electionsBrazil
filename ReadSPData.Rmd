@@ -1,0 +1,72 @@
+---
+title: "ReadDataSP"
+author: "Marcelo Avila"
+date: "26 November 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, warning=FALSE}
+library(dplyr)
+```
+
+
+```{r}
+g <- list()
+g$inputDataPath <- "/data/electionBrazil/bweb_estado/"
+g$dataCleanPath <- "/data/electionBrazil/bweb_estado_clean"
+g$listOfFiles <- list.files(g$inputDataPath)
+g$tmp <- g$listOfFiles[1]
+g$keep <- c("CD_ELEICAO",
+            "CD_MUNICIPIO",
+            "NM_MUNICIPIO",
+            # "NM_VOTAVEL",
+            # "NR_PARTIDO",
+            "NR_VOTAVEL",
+            "QT_VOTOS")
+
+```
+
+```{r}
+SP_FullDataTable <- data.table::fread(file = filePathSP,
+                                  encoding = "Latin-1",
+                                  stringsAsFactors = FALSE)
+```
+
+```{r}
+SP_SmallDatatable <- SP_FullDataTable[, g$keep, with = FALSE]
+SP_SmallDatatable
+```
+
+```{r}
+tmpDataFrame <- SP_SmallDatatable %>% 
+    filter(CD_ELEICAO == 295) %>% 
+    group_by(CD_MUNICIPIO, NM_MUNICIPIO, NR_VOTAVEL) %>% 
+    summarise(votos = sum(QT_VOTOS))
+
+tmpDataFrame
+```
+
+```{r}
+sp_wide <- tidyr::spread(tmpDataFrame, NR_VOTAVEL, votos)
+sp_wide[is.na(sp_wide)] <- 0
+sp_wide
+```
+
+
+```{r}
+g$dataCleanPath
+write.csv2(sp_wide, file = "inputData/votosSPWide.csv")
+```
+
+```{r}
+#rm(tmpDataFrame, SP_SmallDatatable)
+```
+
+```{r}
+summary(sp_wide)
+```
+

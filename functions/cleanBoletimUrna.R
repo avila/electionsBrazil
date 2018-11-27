@@ -1,3 +1,5 @@
+require("dplyr")
+
 cleanBoletimUrna <- function(filePath, keepVars) {
   tmpDataFrame <- read.csv2(file = filePath,
                             encoding = "latin1",
@@ -12,4 +14,7 @@ cleanBoletimUrna <- function(filePath, keepVars) {
   
   return(tmpDataFrame)
 }
+
+
+
 

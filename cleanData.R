@@ -1,12 +1,12 @@
 ## Library
-library(dplyr)
+library("dplyr")
 source("./functions/cleanBoletimUrna.R")
 ## define paths
 ### globals 
 g <- list()
-g$inputDataPath <- "/home/avila/data"
+g$inputDataPath <- "/data/electionBrazil/bweb_estado/"
+g$dataCleanPath <- "/data/electionBrazil/bweb_estado_clean"
 g$listOfFiles <- list.files(g$inputDataPath)
-g$dataCleanPath <- "./dataClean"
 g$tmp <- g$listOfFiles[1]
 g$keep <- c("CD_ELEICAO",
             "NM_VOTAVEL",
@@ -26,31 +26,32 @@ for (file in listOfFiles) {
   if (any(grepl(ufCode, list.files(g$dataCleanPath)))) {
     cat("  already there!\n")
     next
-    }
-  filepath <- file.path(g$inputDataPath, file)
-  tmpDataFrame <- cleanBoletimUrna(filePath = filepath, keepVars = g$keep)
-  dataName <- paste("df", ufCode, sep = "_")
-  assign(dataName, tmpDataFrame)
-  cat(" DONE!\n")
-}
-
-
-listOfVar <- ls()[grepl("df_", ls())]
-for (var in listOfVar) {
-  cat("writing: ", var)
-  # define vars
-  filepath <- file.path(g$dataCleanPath, var)
-  
-  # check if already done
-  if (any(grepl(var, list.files(g$dataCleanPath)))) {
-    cat("  already there!\n")
-    next
   }
   
-  # write csv
-  write.csv2(x = eval(as.symbol(var)),file = filepath)
+  filepath <- file.path(g$inputDataPath, file)
+  tmpDataFrame <- cleanBoletimUrna(filePath = filepath, keepVars = g$keep)
+  
+  ## Write to file
+  filepathWrite <- file.path(g$dataCleanPath)
+  write.csv2(x = tmpDataFrame,
+             file = paste(filepathWrite, paste0("clean_", ufCode, ".csv"), sep = "/"))
+  
   cat(" DONE!\n")
 }
-write.csv2(x = df_AC, file = file.path(g$dataCleanPath, "df_AC.csv"))
 
+
+
+df <- cleanBoletimUrna(filePath = paste0("/data/electionBrazil/bweb_estado/, 
+                                         bweb_1t_SP_101020182030.csv"),
+                       keepVars = g$keep)
+
+
+filePathSP <- file.path("/data/electionBrazil/bweb_estado/",
+                        "bweb_1t_SP_101020182030.csv")
+
+
+tmpDataFrame <- data.table::fread(file = filePathSP,
+                                  encoding = "Latin-1",
+                                  stringsAsFactors = FALSE)
+vec1 <- tmpDataFrame[CD_ELEICAO]
 
